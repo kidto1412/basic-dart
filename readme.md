@@ -9,7 +9,7 @@ Cocok untuk Clean Architecture → UseCase, Repository, Service, dll.
 Dart tidak punya keyword interface, jadi abstract class juga digunakan sebagai interface.
 
 Kamu juga bisa meng-implements abstract class seperti ini:
-
+//check
 dart
 Copy
 Edit
